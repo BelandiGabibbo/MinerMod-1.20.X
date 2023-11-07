@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minermod:pink_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "minermod:pink_diamond",
+    "count": 9
+  }
+}

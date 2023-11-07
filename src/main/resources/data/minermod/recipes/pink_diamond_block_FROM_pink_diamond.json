@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minermod:pink_diamond"
+    }
+  },
+  "result": {
+    "item": "minermod:pink_diamond_block"
+  }
+}
