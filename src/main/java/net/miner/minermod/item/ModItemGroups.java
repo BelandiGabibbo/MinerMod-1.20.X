@@ -19,6 +19,10 @@ public class ModItemGroups {
                         entries.add(ModItems.PINKDIAMOND);
 
                         entries.add(ModBlocks.PINK_DIAMOND_BLOCK);
+                        entries.add(ModBlocks.PINK_DIAMOND_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_PINK_DIAMOND_ORE);
+                        entries.add(ModBlocks.ENDSTONE_PINK_DIAMOND_ORE);
+
 
                     }).build());
     public static void registerItemGroups(){

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minermod:pink_diamond_block",
+    "minermod:pink_diamond_ore",
+    "minermod:deepslate_pink_diamond_ore",
+    "minermod:endstone_pink_diamond_ore"
+  ]
+}

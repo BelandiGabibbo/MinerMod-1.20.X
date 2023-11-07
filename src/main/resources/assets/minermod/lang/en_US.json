@@ -3,5 +3,9 @@
 
   "block.minermod.pink_diamond_block": "Block of Pink Diamond",
 
+  "block.minermod.pink_diamond_ore" : "Pink Diamond Ore",
+  "block.minermod.deepslate_pink_diamond_ore": "Deepslate Pink Diamond Ore",
+  "block.minermod.endstone_pink_diamond_ore": "End Stone Pink Diamond Ore",
+
   "itemgroup.minermod": "Miner Mod Group"
 }
